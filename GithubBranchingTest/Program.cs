@@ -11,6 +11,7 @@ namespace GithubBranchingTest
         static void Main(string[] args)
         {
             Console.WriteLine("testing branching via Github");
+            Console.WriteLine("første commit");
         }
     }
 }
